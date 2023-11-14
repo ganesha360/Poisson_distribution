@@ -1,4 +1,4 @@
-# 2.Fitting Poisson  distribution
+# 2. Fitting Poisson  distribution
 # DATE : 15-09-23
 # Aim : 
 

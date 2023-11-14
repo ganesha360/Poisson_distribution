@@ -1,4 +1,5 @@
 # Fitting Poisson  distribution
+# DATE : 15-09-23
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -30,6 +31,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```python
+# DEVELOPED BY : GANESH R
+# REG NO : 212222240029
+
 import numpy as np
 import math
 import scipy.stats
